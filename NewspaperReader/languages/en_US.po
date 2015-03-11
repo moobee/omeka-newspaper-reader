@@ -1,0 +1,187 @@
+# Translation for the PDF Text plugin for Omeka.
+# This file is distributed under the same license as the Omeka package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka\n"
+"Report-Msgid-Bugs-To: https://github.com/omeka/Omeka/issues\n"
+"POT-Creation-Date: 2014-10-07 11:20+0100\n"
+"PO-Revision-Date: 2014-10-13 14:38+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 1.5.4\n"
+"Language-Team: \n"
+
+msgid "Historique des 10 derniers imports"
+msgstr ""
+
+msgid "Déplier tout l'historique"
+msgstr ""
+
+msgid "fascicules importés :"
+msgstr ""
+
+msgid "Import échoué pour une raison inconnue"
+msgstr ""
+
+msgid ""
+"Il n'y a pas encore d'historiques à afficher. Cliquez sur l'onglet "
+"\"Importer des fichiers\" pour ajouter des fascicules."
+msgstr ""
+
+msgid "Rapport d'import du "
+msgstr ""
+
+msgid "Il n'y a pas encore d'historiques à afficher. Cliquez sur l'onglet <<Importer des fichiers>> pour ajouter des fascicules."
+msgstr ""
+
+msgid "Fichier"
+msgstr ""
+
+msgid "Erreur"
+msgstr ""
+
+msgid ""
+"Étape 1 : Vérifiez que tous les fichiers à importer sont dans le bon dossier"
+msgstr ""
+
+msgid "Dossier d'import :"
+msgstr ""
+
+msgid "Contenu du dossier d'import :"
+msgstr ""
+
+msgid "Récapitulatif :"
+msgstr ""
+
+msgid "Étape 2 : Sélectionnez un fichier de récolement"
+msgstr ""
+
+msgid "Fichier au format CSV :"
+msgstr ""
+
+msgid "La taille maximale du fichier est de 5 MB."
+msgstr ""
+
+msgid "Séparateur de champ :"
+msgstr ""
+
+msgid "Caractère séparant les champs d'une même ligne."
+msgstr ""
+
+msgid "Étape 3 : Sélectionnez un titre et une collection"
+msgstr ""
+
+msgid "Titre des fascicules :"
+msgstr ""
+
+msgid "Nom de la maison de presse ayant publié les fascicules."
+msgstr ""
+
+msgid "Sélectionnez un titre"
+msgstr ""
+
+msgid "Ou ajoutez un nouveau titre :"
+msgstr ""
+
+msgid "Collection des fascicules :"
+msgstr ""
+
+msgid "Nom de la collection à laquelle doivent être liés les fascicules."
+msgstr ""
+
+msgid "Sélectionnez une collection"
+msgstr ""
+
+msgid "Étape 4 : Sélectionnez des options"
+msgstr ""
+
+msgid "Rendre les fascicules publics ?"
+msgstr ""
+
+msgid "Les fascicules publics sont consultables par tout le monde."
+msgstr ""
+
+msgid "Mettre en avant les fascicules ?"
+msgstr ""
+
+msgid "Les fascicules mis en avant apparaissent sur la page d'accueil."
+msgstr ""
+
+msgid "Étape 5 : Procéder à l'import des fichiers"
+msgstr ""
+
+msgid "résultat"
+msgstr ""
+
+msgid "trouvé"
+msgstr ""
+
+msgid "Retourner à la recherche"
+msgstr ""
+
+msgid "Aucun"
+msgstr ""
+
+msgid "résultat ne correspond à la recherche : "
+msgstr ""
+
+msgid " Retourner à la recherche "
+msgstr ""
+
+msgid "Rechercher dans tout le corpus"
+msgstr ""
+
+msgid "Occurrence :"
+msgstr ""
+
+msgid "De :"
+msgstr ""
+
+msgid ""
+"Votre navigateur ne supporte pas canvas, veuillez installer un navigateur "
+"compatible"
+msgstr ""
+"Your browser does not support the HTML5 canvas tag. Please upgrade your "
+"browser to the latest version."
+
+msgid "Toutes les collections"
+msgstr ""
+
+msgid ""
+"Bulletin de la Meurthe et Moselle. Organe de la société d´assistance aux "
+"réfugiés et évacués de Meurthe-et-Moselle"
+msgstr ""
+
+msgid "Journal de la Meurthe et des Vosges"
+msgstr ""
+
+msgid "Est républicain"
+msgstr ""
+
+msgid "Voir les"
+msgstr ""
+
+msgid "illustrations"
+msgstr ""
+
+msgid "Aucun fichier sélectionné"
+msgstr ""
+
+msgid "Séparateur de champ correct"
+msgstr ""
+
+msgid "Aucun titre sélectionné"
+msgstr ""
+
+msgid "Aucune collection sélectionnée"
+msgstr ""
+
+msgid "Importer des fichiers"
+msgstr ""
+
+msgid "Historique des imports"
+msgstr ""

@@ -1,0 +1,94 @@
+# Translation for the PDF Text plugin for Omeka.
+# This file is distributed under the same license as the Omeka package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka\n"
+"Report-Msgid-Bugs-To: https://github.com/omeka/Omeka/issues\n"
+"POT-Creation-Date: 2014-10-07 11:20+0100\n"
+"PO-Revision-Date: 2014-10-07 14:41+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 1.5.4\n"
+"Language-Team: \n"
+
+msgid "Contacts"
+msgstr ""
+
+msgid "Mentions légales"
+msgstr ""
+
+msgid "Expression"
+msgstr ""
+
+msgid "de l'année :"
+msgstr ""
+
+msgid "Année de départ : vous pouvez rechercher de l'année 1889 à 1918"
+msgstr ""
+
+msgid "Recherche avancée"
+msgstr ""
+
+msgid "Expositions virtuelles"
+msgstr ""
+
+msgid "* Veuillez saisir une date ou une période (de 4 ans maximum) pour effectuer votre recherche"
+msgstr ""
+
+msgid "Tout parcourir"
+msgstr ""
+
+msgid "Recherche de contenus"
+msgstr ""
+
+msgid "Voir les"
+msgstr ""
+
+msgid "illustrations"
+msgstr ""
+
+msgid "Voir l'illustration"
+msgstr ""
+
+msgid "Type de contenu"
+msgstr ""
+
+msgid "Titre"
+msgstr ""
+
+msgid "correspond à la recherche :"
+msgstr ""
+
+msgid "Effectuer une autre recherche"
+msgstr ""
+
+msgid "Recherche par intervalle d'identifiants"
+msgstr ""
+
+msgid "Recherche par expression dans les focus"
+msgstr ""
+
+msgid "Période*"
+msgstr ""
+
+msgid "Date(s)*"
+msgstr ""
+
+msgid "Recherche par collection"
+msgstr ""
+
+msgid "Recherche par expression"
+msgstr ""
+
+msgid "Aucun"
+msgstr ""
+
+msgid "Parcourir la liste des titres numérisés"
+msgstr ""
+
+msgid "Parcourir les focus"
+msgstr ""

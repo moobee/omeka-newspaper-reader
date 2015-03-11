@@ -1,0 +1,115 @@
+.history-page-title {
+	display: inline-block;
+	margin-right: 20px;
+}
+/** Red colored text **/
+.red{
+	color: #DB4949;
+}
+
+/** Green colored text **/
+.green{
+	color: green;
+}
+
+/** Orange colored text **/
+.orange{
+	color : #DDAC20;
+}
+
+/** Orange background  **/
+.red-bc{
+	background-color : #FFE4E4;
+	border-left: 4px solid #DB4949;
+}
+/** Orange background  **/
+.green-bc{
+	background-color : #E2F0CB;
+	border-left: 4px solid #48BF00;
+}
+/** Orange background  **/
+.orange-bc{
+	background-color : #FBF8C5;
+	border-left: 4px solid #DDAC20;
+}
+/** Grey background  **/
+.grey-bc{
+	background-color : #DDD;
+	border-left: 4px solid #666;
+}
+
+.history-line{
+	padding: 1px;
+	padding-left: 6px;
+	margin : 4px 0px;
+	clear : both;
+
+}
+.history-line p{
+	line-height : 0.7em;
+}
+
+/** Description of the content folder **/
+p#content-folder > span{
+	display : block;
+}
+
+.alinea{
+	text-indent : 50px;
+}
+
+#error p{
+	margin : 0px;
+	font-family: "Courier New, Courier, Prestige, monospace";
+	font-size: 0.77em;
+}
+
+#import-en-cours{
+	position : fixed;
+	width : 18em;
+	top : 150px;
+	right : 50px;
+	padding : 15px;
+	background-color : grey;
+	color : white;
+}
+
+.history.add-line {
+	position: absolute;
+		top: 20px;
+		right: 20px;
+}
+
+.history.add-line:hover {
+	background-color: #444;
+}
+
+.history-title{
+	display: inline-block;
+	font-size: 1.2em;
+}
+
+.history-title-span{
+	position: absolute;
+		left: 520px;
+		top: 24px;
+	color: grey;
+	display: inline-block;
+	padding: 0px 20px;
+}
+
+.history-bloc{
+	position: relative;
+	background-color: #F4F3F2;
+	border: solid 1px #E9E7DA;
+	margin: 4px;
+	margin-bottom: 10px;
+	padding: 0px 20px;
+	padding-bottom: 10px;
+	/*height: 50px;*/
+	/*overflow: hidden;*/
+}
+
+.history-lines {
+	display: none;
+}
