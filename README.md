@@ -27,13 +27,13 @@ Ces trois composants sont nécessaires au bon fonctionnement de l'ensemble, il f
 
 ## Configuration
 
-La documentation du thème NewspaperReader se trouve dans [le guide d'utilisation](https://github.com/moobee/omeka-newspaper-reader/newspaper-reader-user-guide.pdf)
+La documentation du thème NewspaperReader se trouve dans [le guide d'utilisation](https://github.com/moobee/omeka-newspaper-reader/blob/master/newspaper-reader-user-guide.pdf)
 La configuration technique du thème et du plugin se trouve dans `themes/bmn/config.php`.
 La configuration technique de Solr se trouve dans [le guide de configuration de Solr](newspaper-reader-solr-config.md)
 
 ## Effectuer un import
 
-La documentation d'import de fascicules dans Omeka avec NewspaperReader se trouve dans [le guide d'import](https://github.com/moobee/omeka-newspaper-reader/newspaper-reader-import-doc.pdf)
+La documentation d'import de fascicules dans Omeka avec NewspaperReader se trouve dans [le guide d'import](https://github.com/moobee/omeka-newspaper-reader/blob/master/newspaper-reader-import-doc.pdf)
 
 
 
